@@ -1,0 +1,88 @@
+.A2NAV {
+    background-color: #26666e;
+}
+
+.A2NAV li {
+    display: inline-block;
+    padding: 10px 15px ;
+}
+
+.A2NAV a {
+    text-decoration: none;
+    color: black;
+}
+
+.navbar {
+    background-color: #51949d;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.navbar li {
+    display: inline-block;
+    padding: 10px 15px ;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: black;
+}
+
+.banner {
+    background-color: #d7f2f5;
+    color: black;
+    margin-top: 50px;
+    text-align: center;
+    padding: 100px 0;
+}
+
+.home-section {
+    padding: 20px 50px;
+}
+
+#just-me-home{
+    height: 500px;
+    width: 500px;
+    filter: drop-shadow(1px 1px 1px black);
+}
+
+#assignment1{
+    height: 750px;
+    width: 500px;
+    filter: drop-shadow(1px 1px 1px black);
+}
+
+#images-fit {
+    height: 600px;
+    width: 960px;
+    filter: drop-shadow(1px 1px 1px black);
+}
+
+#letter-size {
+    height: 413px;
+    width: 319px;
+    filter: drop-shadow(2px 2px 2px black);
+}
+
+#home-page {
+    color: #82bbc2;
+    font-size: 50px;
+}
+
+#greets ul {
+    list-style-type: none;
+}
+
+.avatar {
+    background-image: url(../);
+}
+
+.bold {
+    font-weight: 900;
+
+}
+
+a.blue {
+    color: rgb(136, 136, 151);
+}
