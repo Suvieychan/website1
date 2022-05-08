@@ -7,5 +7,7 @@ function setup() {
 function draw() {
 
 
-    
+function mousePressed(){
+    saveCanvas("Day12", "png")
+}    
 }

@@ -33,4 +33,8 @@ function draw(){
         fill(255, 0, 0);
         ellipse(0, 0, 100, 100);
     }
+
+    function mousePressed(){
+        saveCanvas("Day3", "png")
+    }
 }

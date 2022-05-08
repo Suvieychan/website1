@@ -57,5 +57,9 @@ function draw() {
     line(0, 0, 0, 0);
     line(0, 0, 0, 0);
     line(0, 0, 0, 0);*/
+
+    function mousePressed(){
+        saveCanvas("Day7", "png")
+    }
     
 }

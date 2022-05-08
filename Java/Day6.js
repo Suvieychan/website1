@@ -107,6 +107,10 @@ function draw() {
         pop();
         a++;
     }
+
+    function mousePressed(){
+        saveCanvas("Day6", "png")
+    }
  
 
 }

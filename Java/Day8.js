@@ -27,6 +27,10 @@ function draw() {
     pop();
     p++;
     } 
+
+    function mousePressed(){
+        saveCanvas("Day8", "png")
+    }
     
     /*if (i <= 360){
     push();

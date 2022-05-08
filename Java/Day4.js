@@ -80,4 +80,8 @@ function draw() {
         l++;
     }
 
+    function mousePressed(){
+        saveCanvas("Day4", "png")
+    }
+
 }

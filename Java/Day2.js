@@ -29,5 +29,5 @@ function setup(){
 }
 
 function mousePressed(){
-    saveCanvas("sketch-01", "png")
+    saveCanvas("Day2", "png")
 }

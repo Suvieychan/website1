@@ -60,7 +60,9 @@ function draw() {
         p++;
     }
 
-    
+    function mousePressed(){
+        saveCanvas("Day5", "png")
+    }
 
 
 
