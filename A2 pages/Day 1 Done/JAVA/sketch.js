@@ -35,6 +35,6 @@ function draw(){
     ellipse(mouseX, mouseY, random(100, 250), random(100, 250));
 }
 
-function mousePressed(){
+/*function mousePressed(){
     saveCanvas("sketch-01", "png")
-}
+}*/
