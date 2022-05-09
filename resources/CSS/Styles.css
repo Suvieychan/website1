@@ -41,6 +41,12 @@
     padding: 20px 50px;
 }
 
+#DayImg{
+height: 150px;
+width: 150px;
+filter: drop-shadow(3px 3px 3px black);
+}
+
 #just-me-home{
     height: 500px;
     width: 500px;
